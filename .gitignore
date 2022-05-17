@@ -1,0 +1,5 @@
+/checkpoints/
+/data/
+/data/hateval2019_en_train.csv
+/data/hateval2019_en_test.csv
+/data/hateval2019_en_dev.csv
